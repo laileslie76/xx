@@ -3,9 +3,7 @@
 // spider
 "spider":"https://github.com/laileslie76/CatVodTVSpider",
 
-// 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kYXZlbGVleWVlMjAyMi5naXRodWIuaW8vbXlzL2JhZGR5L3R2L2xpdmUudHh0Cg==
- 
+{
 
  "sites": [
 {"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":1,"quickSearch":0},
